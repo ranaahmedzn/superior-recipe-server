@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683084067~exp=1683084667~hmac=05cb9531721f68c08fe79e80dea8c0dce07b224a9a478b4b3536e2103ca43a32",
+      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
       "chef_name": "Massimo Bottura",
       "experience": 35,
       "number_of_recipes": 250,
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "chef_picture": "https://img.freepik.com/free-photo/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-confident-green-background_141793-21131.jpg?size=626&ext=jpg",
+      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
       "chef_name": "Lidia Bastianich",
       "experience": 50,
       "number_of_recipes": 500,
@@ -19,8 +19,7 @@
     },
     {
       "id": 3,
-      "chef_picture": "https://img.freepik.com/premium-photo/serious-chef-with-knife-studio_251859-5033.jpg?size=626&ext=jpg",
-      "chef_name": "Gennaro Contaldo",
+      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
       "experience": 45,
       "number_of_recipes": 300,
       "likes": 20000,
@@ -28,7 +27,7 @@
     },
     {
       "id": 4,
-      "chef_picture": "https://img.freepik.com/free-photo/joyful-young-handsome-cook-chef-uniform-holding-glass-water-isolated-orange-wall_141793-101688.jpg?size=626&ext=jpg",
+      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
       "chef_name": "Carlo Cracco",
       "experience": 30,
       "number_of_recipes": 200,
@@ -37,7 +36,7 @@
     },
     {
       "id": 5,
-      "chef_picture": "https://img.freepik.com/premium-photo/serious-chef-with-knife-studio_251859-5033.jpg?size=626&ext=jpg",
+      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
       "chef_name": "Mario Batali",
       "experience": 40,
       "number_of_recipes": 350,
@@ -46,7 +45,7 @@
     },
     {
       "id": 6,
-      "chef_picture": "https://img.freepik.com/free-photo/joyful-young-handsome-cook-chef-uniform-holding-glass-water-isolated-orange-wall_141793-101688.jpg?size=626&ext=jpg",
+      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
       "chef_name": "Antonio Carluccio",
       "experience": 50,
       "number_of_recipes": 150,
@@ -56,7 +55,7 @@
     },
     {
       "id": 7,
-      "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683084067~exp=1683084667~hmac=05cb9531721f68c08fe79e80dea8c0dce07b224a9a478b4b3536e2103ca43a32",
+      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
       "chef_name": "Giada De Laurentiis",
       "experience": 25,
       "number_of_recipes": 300,
@@ -65,7 +64,7 @@
     },
     {
       "id": 8,
-      "chef_picture": "https://img.freepik.com/free-photo/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-confident-green-background_141793-21131.jpg?size=626&ext=jpg",
+      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
       "chef_name": "Domenica Marchetti",
       "experience": 20,
       "number_of_recipes": 200,
