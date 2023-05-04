@@ -1,10 +1,11 @@
 [
     {
       "id": 1,
-      "chef_picture": "https://i.ibb.co/nMrppmK/chef-1.jpg",
+      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
       "chef_name": "Massimo Bottura",
-      "experience": 35,
-      "number_of_recipes": 250,
+      "chef_fullPicture": "https://i.ibb.co/nMrppmK/chef-1.jpg",
+      "experience": 10,
+      "number_of_recipes": 25,
       "likes": 45000,
       "description": "Massimo Bottura is a world-renowned Italian chef and restaurateur. He is the owner and head chef of Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy. Bottura is known for his innovative and avant-garde approach to Italian cuisine, which has earned him numerous awards and accolades."
     },
@@ -12,8 +13,9 @@
       "id": 2,
       "chef_picture": "https://i.ibb.co/JvW4gqH/chef.png",
       "chef_name": "Lidia Bastianich",
-      "experience": 50,
-      "number_of_recipes": 500,
+      "chef_fullPicture": "https://i.ibb.co/TBQtHv1/chef-2.jpg",
+      "experience": 3,
+      "number_of_recipes": 12,
       "likes": 30000,
       "description": "Lidia Bastianich is an Italian-American chef, restaurateur, and author. She is the owner and head chef of Felidia, a highly acclaimed Italian restaurant in New York City. Bastianich is also known for her numerous cookbooks and television shows, which have helped to popularize Italian cuisine in the United States."
     },
@@ -21,8 +23,9 @@
       "id": 3,
       "chef_picture": "https://i.ibb.co/tPyqfjX/My-project.png",
       "chef_name": "Gennaro Contaldo",
-      "experience": 45,
-      "number_of_recipes": 300,
+      "chef_fullPicture": "https://i.ibb.co/mqTJjpy/chef-3.jpg",
+      "experience": 7,
+      "number_of_recipes": 22,
       "likes": 20000,
       "description": "Gennaro Contaldo is an Italian chef and restaurateur who has worked in some of the world's most prestigious restaurants. He is the co-founder of the Jamie Oliver Restaurant Group and has appeared on numerous television shows, including Jamie Oliver's Food Tube and Gennaro's Italian Escape. Contaldo is known for his rustic, traditional approach to Italian cuisine."
     },
@@ -30,8 +33,9 @@
       "id": 4,
       "chef_picture": "https://i.ibb.co/m9ZsNsN/My-project-4.png",
       "chef_name": "Carlo Cracco",
-      "experience": 30,
-      "number_of_recipes": 200,
+      "chef_fullPicture": "https://i.ibb.co/0Qb4GBj/chef-4.jpg",
+      "experience": 14,
+      "number_of_recipes": 28,
       "likes": 15000,
       "description": "Carlo Cracco is an Italian chef and television personality. He is the owner and head chef of Ristorante Cracco, a two-Michelin-star restaurant in Milan, Italy. Cracco is known for his innovative and contemporary approach to Italian cuisine, which combines traditional flavors with modern techniques."
     },
@@ -39,17 +43,19 @@
       "id": 5,
       "chef_picture": "https://i.ibb.co/Bt1WjfN/chef-2.png",
       "chef_name": "Mario Batali",
-      "experience": 40,
-      "number_of_recipes": 350,
+      "chef_fullPicture": "https://i.ibb.co/60Fkc0Q/chef-5.jpg",
+      "experience": 5,
+      "number_of_recipes": 20,
       "likes": 40000,
       "description": "Mario Batali is an American chef, restaurateur, and television personality. He is the owner and head chef of several highly acclaimed Italian restaurants, including Babbo and Del Posto in New York City. Batali is also known for his numerous cookbooks and television shows, which have helped to popularize Italian cuisine in the United States."
     },
     {
       "id": 6,
-      "chef_picture": "https://i.ibb.co/L03xsbj/chef-8.png",
+      "chef_picture": "https://i.ibb.co/tcZpfC0/male-chef.png",
       "chef_name": "Antonio Carluccio",
-      "experience": 50,
-      "number_of_recipes": 150,
+      "chef_fullPicture": "https://i.ibb.co/df6bg7X/male-chef.jpg",
+      "experience": 10,
+      "number_of_recipes": 25,
       "likes": 10000,
       "description": "Antonio Carluccio was an Italian chef, restaurateur, and author who lived and worked in the United Kingdom. He was the founder of the famous Italian deli and restaurant chain Carluccio's and authored over 20 cookbooks. Carluccio was known for his passion for Italian food and his advocacy for simple, honest cooking using fresh, seasonal ingredients."
 
@@ -58,8 +64,9 @@
       "id": 7,
       "chef_picture": "https://i.ibb.co/wsnQsdv/chef5.png",
       "chef_name": "Giada De Laurentiis",
-      "experience": 25,
-      "number_of_recipes": 300,
+      "chef_fullPicture": "https://i.ibb.co/61g8Scs/Chef-7.jpg",
+      "experience": 7,
+      "number_of_recipes": 18,
       "likes": 50000,
       "description": "Giada De Laurentiis is an Italian-American chef, author, and television personality. She is the host of several cooking shows on the Food Network, including Everyday Italian and Giada at Home. De Laurentiis is also the owner of a highly acclaimed Italian restaurant in Las Vegas. She is known for her modern take on Italian cuisine and her emphasis on fresh, simple ingredients."
     },
@@ -67,8 +74,9 @@
       "id": 8,
       "chef_picture": "https://i.ibb.co/8840WKY/My-project-1.png",
       "chef_name": "Domenica Marchetti",
-      "experience": 20,
-      "number_of_recipes": 200,
+      "chef_fullPicture": "https://i.ibb.co/C6dxPdd/chef-8.jpg",
+      "experience": 3,
+      "number_of_recipes": 10,
       "likes": 12000,
       "description": "Domenica Marchetti is an Italian-American cookbook author and recipe developer. She has written numerous cookbooks, including The Glorious Vegetables of Italy and The Glorious Pasta of Italy. Marchetti is known for her simple yet elegant approach to Italian cooking, which emphasizes the use of fresh, seasonal ingredients."
     }

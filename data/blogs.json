@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "question": "The differences between uncontrolled and controlled components.",
+        "answer": "Controlled components are React components that have their values and state controlled by a parent component. They receive their values via props from the parent component, and the parent component is responsible for updating the value whenever a change occurs. On the other hand, uncontrolled components are React components that manage their own values and state. The value of an uncontrolled component is managed by the component itself, without the need for a parent component to control it. The main difference between controlled and uncontrolled components is that Controlled components rely on a parent component to control and manage their state, while uncontrolled components manage their own state. ",
+        "image": "https://i.ibb.co/n1NkP7p/profile1.jpg",
+        "author": "Mr. James"
+    },
+    {
+        "id": 2,
+        "question": "How to validate React props using PropTypes?",
+        "answer": "When we're building React components, it's very important to ensure that the props passed to our components are of the correct type and shape. This is where PropTypes comes in. PropTypes is a package that allows you to define the expected types and values of your props, and provides warnings when the props are not passed correctly. PropTypes in your React components allows us to define the expected types and values of our props, and provides warnings when the props are not passed correctly. This helps ensure that our components work as expected and reduces the likelihood of errors in your code.",
+        "image": "https://i.ibb.co/QHfKVfL/profile2.jpg",
+        "author": "Williamson"
+    },
+    {
+        "id": 3,
+        "question": "The difference between nodejs and express js.",
+        "answer": "Node js is JavaScripts free and open source cross-platform for server-side programming that permits clients to develop web applications rapidly. It is a library for executing JavaScript applications and is used to create server-side programs or network applications. Its basic modules are engraved in JavaScript. Express.js is a popular Node.js web application framework that provides a set of features and tools for building web applications. Express is a minimal, open-source, and adaptable Node.js web application system intended to make creating sites, web applications, and APIs a lot simpler. It allows us to respond to requests with route support so that you can write the responses to specific URLs. The key element of Express.js is that it is very simple and is open-source.",
+        "image": "https://i.ibb.co/DtcD4CK/profile3.jpg",
+        "author": "John Watson"
+    },
+    {
+        "id": 4,
+        "question": "What is a custom hook, and why will you create a custom hook?",
+        "answer": "Custom Hook is a JavaScript function which we create by ourselves, when we want to share logic between other JavaScript functions. It allows you to reuse some piece of code in several parts of your app.  Custom hooks allow us to extract and reuse stateful logic from your components, making our code more modular and easier to maintain. We might create a custom hook when we have a piece of stateful logic that is used in multiple components, or when you want to share functionality between different parts of your application.",
+        "image": "https://i.ibb.co/dpVrLZ0/profile4.jpg",
+        "author": "Michael"
+    }
+]
