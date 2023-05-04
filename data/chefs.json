@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
+      "chef_picture": "https://i.ibb.co/nMrppmK/chef-1.jpg",
       "chef_name": "Massimo Bottura",
       "experience": 35,
       "number_of_recipes": 250,
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
+      "chef_picture": "https://i.ibb.co/JvW4gqH/chef.png",
       "chef_name": "Lidia Bastianich",
       "experience": 50,
       "number_of_recipes": 500,
@@ -19,7 +19,8 @@
     },
     {
       "id": 3,
-      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
+      "chef_picture": "https://i.ibb.co/tPyqfjX/My-project.png",
+      "chef_name": "Gennaro Contaldo",
       "experience": 45,
       "number_of_recipes": 300,
       "likes": 20000,
@@ -27,7 +28,7 @@
     },
     {
       "id": 4,
-      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
+      "chef_picture": "https://i.ibb.co/m9ZsNsN/My-project-4.png",
       "chef_name": "Carlo Cracco",
       "experience": 30,
       "number_of_recipes": 200,
@@ -36,7 +37,7 @@
     },
     {
       "id": 5,
-      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
+      "chef_picture": "https://i.ibb.co/Bt1WjfN/chef-2.png",
       "chef_name": "Mario Batali",
       "experience": 40,
       "number_of_recipes": 350,
@@ -45,7 +46,7 @@
     },
     {
       "id": 6,
-      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
+      "chef_picture": "https://i.ibb.co/L03xsbj/chef-8.png",
       "chef_name": "Antonio Carluccio",
       "experience": 50,
       "number_of_recipes": 150,
@@ -55,7 +56,7 @@
     },
     {
       "id": 7,
-      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
+      "chef_picture": "https://i.ibb.co/wsnQsdv/chef5.png",
       "chef_name": "Giada De Laurentiis",
       "experience": 25,
       "number_of_recipes": 300,
@@ -64,7 +65,7 @@
     },
     {
       "id": 8,
-      "chef_picture": "https://i.ibb.co/yVCS8Vh/My-project-1.png",
+      "chef_picture": "https://i.ibb.co/8840WKY/My-project-1.png",
       "chef_name": "Domenica Marchetti",
       "experience": 20,
       "number_of_recipes": 200,
