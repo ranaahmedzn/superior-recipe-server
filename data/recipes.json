@@ -7,7 +7,7 @@
     "rating": 4.5
   },
   {
-    "chef_id": 3,
+    "chef_id": 4,
     "recipe_name": "Margherita Pizza",
     "ingredients": [
       "pizza dough",
@@ -53,7 +53,7 @@
     "rating": 4.5
   },
   {
-    "chef_id": 4,
+    "chef_id": 3,
     "recipe_name": "Bruschetta",
     "ingredients": ["baguette", "tomatoes", "garlic", "basil", "olive oil"],
     "cooking_method": "1. Preheat oven to 350°F. \n2. Slice baguette into thin slices and place on a baking sheet. \n3. Brush the slices with olive oil and bake in the oven for 5-7 minutes, until lightly toasted. \n4. In a bowl, mix together diced tomatoes, minced garlic, and chopped basil. \n5. Top the toasted baguette slices with the tomato mixture. \n6. Serve immediately.",
@@ -219,7 +219,7 @@
     "rating": 4.9
   },
   {
-    "chef_id": 2,
+    "chef_id": 1,
     "recipe_name": "Risotto with Porcini Mushrooms",
     "ingredients": [
       "arborio rice",
@@ -237,7 +237,7 @@
     "rating": 4.8
   },
   {
-    "chef_id": 1,
+    "chef_id": 2,
     "recipe_name": "Spaghetti Carbonara",
     "ingredients": ["spaghetti", "bacon", "eggs", "parmesan cheese", "garlic"],
     "cooking_method": "Boil spaghetti until al dente. In a separate pan, cook bacon and garlic. In a bowl, whisk together eggs and parmesan cheese. Drain spaghetti and add to the bacon pan. Turn off heat, add egg mixture and stir until sauce thickens. Add salt and pepper to taste.",
@@ -270,7 +270,7 @@
     "rating": 4.8
   },
   {
-    "chef_id": 4,
+    "chef_id": 3,
     "recipe_name": "Tiramisu",
     "ingredients": [
       "ladyfingers",
@@ -283,7 +283,7 @@
     "rating": 4.9
   },
   {
-    "chef_id": 5,
+    "chef_id": 1,
     "recipe_name": "Risotto",
     "ingredients": [
       "arborio rice",
@@ -307,5 +307,91 @@
     ],
     "cooking_method": "1. Cook spaghetti according to package directions. \n2. In a separate pan, cook pancetta until crispy. \n3. In a bowl, whisk together eggs, pecorino romano cheese, and black pepper. \n4. Once spaghetti is cooked, drain and add to the pan with the pancetta. \n5. Remove the pan from the heat and add the egg mixture, stirring quickly to coat the spaghetti. \n6. Serve immediately.",
     "rating": 4.8
+  },
+  {
+    "chef_id": 4,
+    "recipe_name": "Pesto Pasta",
+    "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese"],
+    "cooking_method": "1. Cook pasta according to package directions. \n2. In a food processor, pulse together basil, garlic, pine nuts, and parmesan cheese. \n3. Slowly add olive oil until a smooth pesto sauce is formed. \n4. Toss cooked pasta with the pesto sauce. \n5. Serve hot.",
+    "rating": 4.5
+  },
+  {
+    "chef_id": 4,
+    "recipe_name": "Bruschetta",
+    "ingredients": ["baguette", "tomatoes", "garlic", "basil", "olive oil"],
+    "cooking_method": "1. Preheat oven to 350°F. \n2. Slice baguette into thin slices and place on a baking sheet. \n3. Brush the slices with olive oil and bake in the oven for 5-7 minutes, until lightly toasted. \n4. In a bowl, mix together diced tomatoes, minced garlic, and chopped basil. \n5. Top the toasted baguette slices with the tomato mixture. \n6. Serve immediately.",
+    "rating": 4.4
+  },
+  {
+    "chef_id": 7,
+    "recipe_name": "Minestrone Soup",
+    "ingredients": ["onion", "carrots", "celery", "garlic", "tomatoes"],
+    "cooking_method": "1. Heat olive oil in a large pot over medium heat. \n2. Add diced onion, carrots, and celery to the pot and sauté until softened. \n3. Add minced garlic and sauté for an additional minute. \n4. Add diced tomatoes and enough water or broth to cover the vegetables. \n5. Bring to a simmer and let cook for 20-30 minutes. \n6. Serve hot.",
+    "rating": 4.3
+  },
+  {
+    "chef_id": 8,
+    "recipe_name": "Risotto",
+    "ingredients": [
+      "arborio rice",
+      "onion",
+      "white wine",
+      "parmesan cheese",
+      "butter"
+    ],
+    "cooking_method": "1. Heat olive oil in a large pot over medium heat. \n2. Add diced onion to the pot and sauté until softened. \n3. Add arborio rice to the pot and stir to coat with the oil. \n4. Add white wine and stir until it is absorbed. \n5. Add hot broth or water, 1/2 cup at a time, stirring constantly until the liquid is absorbed before adding more. \n6. Continue adding liquid and stirring until the rice is cooked through but still has a slightly firm center, about 18-20 minutes. \n7. Stir in parmesan cheese and butter until melted and combined. \n8. Serve hot.",
+    "rating": 4.7
+  },
+  {
+    "chef_id": 4,
+    "recipe_name": "Classic Spaghetti Carbonara",
+    "ingredients": [
+      "spaghetti",
+      "eggs",
+      "pecorino romano cheese",
+      "pancetta",
+      "black pepper"
+    ],
+    "cooking_method": "1. Cook spaghetti according to package directions. \n2. In a separate pan, cook pancetta until crispy. \n3. In a bowl, whisk together eggs, pecorino romano cheese, and black pepper. \n4. Once spaghetti is cooked, drain and add to the pan with the pancetta. \n5. Remove the pan from the heat and add the egg mixture, stirring quickly to coat the spaghetti. \n6. Serve immediately.",
+    "rating": 4.8
+  },
+  {
+    "chef_id": 5,
+    "recipe_name": "Margherita Pizza",
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "fresh mozzarella cheese",
+      "basil",
+      "olive oil"
+    ],
+    "cooking_method": "1. Preheat oven to 450°F. \n2. Stretch the pizza dough into a circle and place on a pizza pan. \n3. Spread tomato sauce over the pizza dough. \n4. Add slices of fresh mozzarella cheese. \n5. Drizzle with olive oil. \n6. Bake in the oven for 10-12 minutes, until the crust is golden brown. \n7. Top with fresh basil leaves. \n8. Serve hot.",
+    "rating": 4.7
+  },
+  {
+    "chef_id": 8,
+    "recipe_name": "Chicken Parmesan",
+    "ingredients": [
+      "chicken breasts",
+      "breadcrumbs",
+      "parmesan cheese",
+      "mozzarella cheese",
+      "marinara sauce"
+    ],
+    "cooking_method": "1. Preheat oven to 375°F. \n2. Coat chicken breasts in breadcrumbs mixed with parmesan cheese. \n3. Place chicken breasts in a baking dish and bake for 25-30 minutes. \n4. Top with marinara sauce and slices of mozzarella cheese. \n5. Return to the oven and bake for an additional 10-15 minutes, until cheese is melted and bubbly. \n6. Serve hot.",
+    "rating": 4.9
+  },
+  {
+    "chef_id": 3,
+    "recipe_name": "Margherita Pizza",
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "fresh mozzarella cheese",
+      "basil",
+      "olive oil"
+    ],
+    "cooking_method": "1. Preheat oven to 450°F. \n2. Stretch the pizza dough into a circle and place on a pizza pan. \n3. Spread tomato sauce over the pizza dough. \n4. Add slices of fresh mozzarella cheese. \n5. Drizzle with olive oil. \n6. Bake in the oven for 10-12 minutes, until the crust is golden brown. \n7. Top with fresh basil leaves. \n8. Serve hot.",
+    "rating": 4.7
   }
 ]
